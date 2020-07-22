@@ -75,7 +75,7 @@ class Navbar extends React.Component {
         window.location.pathname.replace(/^\//, "") ===
           this.pathname.replace(/^\//, "") &&
         window.location.hostname === this.hostname &&
-        this.pathname.replace(/^\//, "") === ""
+        this.pathname === "/aditi-portfolio/"
       ) {
         console.log("this.pathname"+this.pathname);
         console.log("window.pathname"+window.location.pathname);
@@ -99,14 +99,17 @@ class Navbar extends React.Component {
         window.location.pathname.replace(/^\//, "") ===
           this.pathname.replace(/^\//, "") &&
         window.location.hostname === this.hostname &&
-        this.pathname.replace(/^\//, "") !== ""
+        this.pathname !== "/aditi-portfolio/"
       ) {
         console.log("the other:"+this.pathname);
         console.log("window.pathname"+window.location.pathname);
         console.log(this.hash);
-        console.log(window.location);
+        console.log("loct:" +window.location);
+        var target="/aditi-portfolio/";
+        console.log(target);
+        window.location.pathname = target;
         
-        window.location.pathname="/aditi-portfolio/";
+        //window.location.pathname=window.location.pathname.split('/')[0];
         
        /* var target = $(this.hash);
         target = target.length
