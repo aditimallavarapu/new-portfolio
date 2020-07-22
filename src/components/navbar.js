@@ -74,8 +74,8 @@ class Navbar extends React.Component {
 
         window.location.pathname.replace(/^\//, "") ===
           this.pathname.replace(/^\//, "") &&
-        window.location.hostname === this.hostname &&
-        this.pathname.replace(/^\//, "") === ""
+        window.location.hostname === this.hostname /*&&
+        this.pathname.replace(/^\//, "") === ""*/
       ) {
         var target = $(this.hash);
         target = target.length
@@ -117,8 +117,8 @@ class Navbar extends React.Component {
             "easeInExpo"
           );
           return false;
-      }*/
       }
+      }*/
     });
 
     $(".js-scroll").on("click", function() {
