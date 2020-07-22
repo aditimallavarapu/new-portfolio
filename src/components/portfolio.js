@@ -103,11 +103,10 @@ class Portfolio extends React.Component {
           </div>
         </div>
         <div className="row load-more">
-        <div className="col-12">
-        <LoadMore /> 
+          <div className="col-12">
+            <LoadMore /> 
+          </div>
         </div>
-        </div>
-        
       </section>
     );
   }

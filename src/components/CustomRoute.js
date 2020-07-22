@@ -11,7 +11,7 @@ import snaPage from '../Projects/sna'
 import causalPage from '../Projects/causal'
 import dashboardPage from '../Projects/dashboard'
 import miningPage from '../Projects/mining'
-import Projects from '../components/projects'
+import Projects from '../components/projects.js'
 import netlogoPage from '../Projects/netlogo'
 import EcoCollagePage from '../Projects/EcoCollage'
 const CustomRoute = () => {
