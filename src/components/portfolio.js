@@ -5,6 +5,7 @@ import causal from "../img/causal.png"
 import {Link} from 'react-router-dom';
 import "./stars.scss";
 import LoadMore from '../components/LoadMore'
+
 class Portfolio extends React.Component {
   render() {
     return (

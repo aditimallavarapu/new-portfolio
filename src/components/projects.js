@@ -9,7 +9,7 @@ import ecocollage from "../img/ecocollage.png"
 import {Link} from 'react-router-dom';
 import "./stars.scss";
 
-class Portfolio extends React.Component {
+class Projects extends React.Component {
   render() {
     return (
       <section className="sect-pt4 background"
@@ -213,4 +213,4 @@ class Portfolio extends React.Component {
   }
 }
 
-export default Portfolio;
+export default Projects;

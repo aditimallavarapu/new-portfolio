@@ -11,7 +11,7 @@ import snaPage from '../Projects/sna'
 import causalPage from '../Projects/causal'
 import dashboardPage from '../Projects/dashboard'
 import miningPage from '../Projects/mining'
-import projects from '../components/projects'
+import Projects from '../components/projects'
 import netlogoPage from '../Projects/netlogo'
 import EcoCollagePage from '../Projects/EcoCollage'
 const CustomRoute = () => {
@@ -22,7 +22,7 @@ const CustomRoute = () => {
             <Route path="/aditi-portfolio/experience" component={Resume} />
             <Route path="/aditi-portfolio/publications" component={Publications} />
             <Route path="/aditi-portfolio/projects" component={portfolio} />
-            <Route path="/aditi-portfolio/portfolio" component={projects} />
+            <Route path="/aditi-portfolio/portfolio" component={Projects} />
             <Route path="/aditi-portfolio/contact-me" component={contact} />
             {/*<Route path="/blogs" component={blogs} />*/}
             <Route path="/aditi-portfolio/openpose" component={openposePage} />
