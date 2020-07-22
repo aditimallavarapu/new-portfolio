@@ -18,7 +18,7 @@ const CustomRoute = () => {
     return (
       <Router>
           <Switch>
-            <Route path="/aditi-portfolio/" component={Intro} exact />
+            <Route path="/" component={Intro} exact />
             <Route path="/experience" component={Resume} />
             <Route path="/publications" component={Publications} />
             <Route path="/projects" component={portfolio} />
