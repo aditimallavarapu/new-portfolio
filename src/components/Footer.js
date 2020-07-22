@@ -9,14 +9,16 @@ import School from "@material-ui/icons/School";
 const useStyles = makeStyles({
   bottomNavContainer: {
     background: "transparent",
+    marginTop:"0px",
     
   },
   root: {
     "& .MuiSvgIcon-root": {
       fill: "white",
+      fontSize: "2em",
       "&:hover": {
         fill: "black",
-        fontSize: "1.8rem",
+        fontSize: "2.2rem",
       },
     },
     "& .icon-black *:not(g)" : {

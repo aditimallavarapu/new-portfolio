@@ -426,13 +426,13 @@ background: linear-gradient(to right, #1CB5E0, #000046); /* W3C, IE 10+/ Edge, F
 
 }
 
-.makeStyles-bottomNavContainer-1 {
+/*.makeStyles-bottomNavContainer-1 {
   margin-top:0;
 }
 
 .makeStyles-root-2 .MuiSvgIcon-root{
   font-size:3rem !important;
-}
+}*/
 
 .MuiBottomNavigationAction-label{
   font-size: 1.2rem !important;
