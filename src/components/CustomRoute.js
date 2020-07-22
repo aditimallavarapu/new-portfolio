@@ -17,7 +17,7 @@ import EcoCollagePage from '../Projects/EcoCollage'
 
 const CustomRoute = () => {
     return (
-      <Router>
+      
           <Switch>
             <Route path="/aditi-portfolio/" component={Intro} exact />
             <Route path="/aditi-portfolio/experience" component={Resume} />
@@ -35,7 +35,7 @@ const CustomRoute = () => {
             <Route path="/aditi-portfolio/ecocollage" component={EcoCollagePage} />
            {/* <Route component={NotFound}/>*/}
           </Switch> 
-        </Router>
+       
     )
 }
 
