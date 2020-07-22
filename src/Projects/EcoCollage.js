@@ -4,6 +4,7 @@ import ecocollage from '../img/ecocollage.png'
 import '../components/stars.scss'
 import SeeMore from '../components/SeeMore'
 import link from '../img/journal1.pdf'
+
 class EcoCollagePage extends Component {
   render() {
     return(

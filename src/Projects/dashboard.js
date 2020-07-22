@@ -5,8 +5,7 @@ import '../components/stars.scss'
 import SeeMore from '../components/SeeMore'
 import link from "../img/conference1.pdf"
 
-class dashboardPage
- extends Component {
+class dashboardPage extends Component {
   render() {
     return(
         <>

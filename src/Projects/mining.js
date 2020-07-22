@@ -4,8 +4,7 @@ import mining from '../img/mining.png'
 import '../components/stars.scss'
 import SeeMore from '../components/SeeMore'
 
-class miningPage
- extends Component {
+class miningPage extends Component {
   render() {
     return(
         <>

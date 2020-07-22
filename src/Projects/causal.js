@@ -3,8 +3,9 @@ import { Grid, Cell } from 'react-mdl';
 import causal from '../img/causal.png'
 import '../components/stars.scss'
 import SeeMore from '../components/SeeMore'
-class causalPage
- extends Component {
+
+
+class causalPage extends Component {
   render() {
     return(
         <>
