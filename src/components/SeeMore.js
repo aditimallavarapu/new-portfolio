@@ -3,7 +3,7 @@ import React from 'react';
 
 class SeeMore extends React.Component {
     render(){
-        return <a href="/allProjects" className="load-more"><i className="fa fa-chevron-down"> Check out other Projects</i></a>;
+        return <a href="/aditi-portfolio/allProjects" className="load-more"><i className="fa fa-chevron-down"> Check out other Projects</i></a>;
         }
 }
 
