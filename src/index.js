@@ -31,7 +31,7 @@ import CustomRoute from './components/CustomRoute'
 ReactDOM.render(
     <React.Fragment>
         <Router>
-            <Navbar/>
+            <Navbar/>  
             <div className="bottom">
                 <CustomRoute/>
             </div>

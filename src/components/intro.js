@@ -19,6 +19,7 @@ class Intro extends React.Component {
     return (
       
       <React.Fragment>
+     
       <div id="home" className="intro route bg-image background">
         <div id="stars" />
         <div id="stars2" />
