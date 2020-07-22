@@ -56,7 +56,8 @@ class Intro extends React.Component {
                onClick={() => window.open(CV)} label="View Resume" />
                
               
-              <BottomNavigationAction icon={<CastForEducationIcon />}  className= "intro-icons btn js-scroll px-4" href="#work" label="View Projects"/>
+              <BottomNavigationAction icon={<CastForEducationIcon />}  className= "intro-icons btn js-scroll px-4" 
+              href="#work" label="View Projects" />
               View Projects
             </BottomNavigation>  
             

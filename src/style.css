@@ -438,9 +438,10 @@ background: linear-gradient(to right, #1CB5E0, #000046); /* W3C, IE 10+/ Edge, F
   font-size: 1.2rem !important;
 }
 
-.MuiSvgIcon-root {
+.intro-icons .MuiSvgIcon-root {
 font-size: 4rem !important;
 }
+
 .mdl-progress > .progressbar {
   background-color: black !important;
 }
