@@ -23,23 +23,23 @@ import * as serviceWorker from './serviceWorker';
 import Navbar from './components/navbar';
 import BackToTop from './components/back-top';
 import Preloader from './components/preloader';
-import { BrowserRouter as Router} from "react-router-dom";
+import { HashRouter as Router} from "react-router-dom";
 import 'react-mdl/extra/material.css';
 import 'react-mdl/extra/material.js';
 
 import CustomRoute from './components/CustomRoute'
 
-ReactDOM.render(
+ReactDOM.render(<Router basename={process.env.PUBLIC_URL}>
     <React.Fragment>
-        <Router>
+        
             <Navbar/>  
             <div className="bottom">
                 <CustomRoute/>
             </div>
             <BackToTop/>
            <Preloader />
-       </Router>
-    </React.Fragment>,
+    </React.Fragment>
+    </Router>,
 document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change

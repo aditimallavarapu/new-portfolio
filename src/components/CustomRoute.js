@@ -19,20 +19,20 @@ const CustomRoute = () => {
     return (
       
           <Switch>
-            <Route path="/aditi-portfolio/" component={Intro} exact />
-            <Route path="/aditi-portfolio/experience" component={Resume} />
-            <Route path="/aditi-portfolio/publications" component={Publications} />
-            <Route path="/aditi-portfolio/portfolio" component={Portfolio} />
-            <Route path="/aditi-portfolio/projects" component={Projects} />
-            <Route path="/aditi-portfolio/contact-me" component={Contact} />
+            <Route path="/" component={Intro} exact />
+            <Route path="/experience" component={Resume} />
+            <Route path="/publications" component={Publications} />
+            <Route path="/portfolio" component={Portfolio} />
+            <Route path="/projects" component={Projects} />
+            <Route path="/contact-me" component={Contact} />
             {/*<Route path="/blogs" component={blogs} />*/}
-            <Route path="/aditi-portfolio/openpose" component={openposePage} />
-            <Route path="/aditi-portfolio/sna" component={snaPage} />
-            <Route path="/aditi-portfolio/causal" component={causalPage} />
-            <Route path="/aditi-portfolio/dashboard" component={dashboardPage} />
-            <Route path="/aditi-portfolio/mining" component={miningPage} />
-            <Route path="/aditi-portfolio/netlogo" component={netlogoPage} />
-            <Route path="/aditi-portfolio/ecocollage" component={EcoCollagePage} />
+            <Route path="/openpose" component={openposePage} />
+            <Route path="/sna" component={snaPage} />
+            <Route path="/causal" component={causalPage} />
+            <Route path="/dashboard" component={dashboardPage} />
+            <Route path="/mining" component={miningPage} />
+            <Route path="/netlogo" component={netlogoPage} />
+            <Route path="/ecocollage" component={EcoCollagePage} />
            {/* <Route component={NotFound}/>*/}
           </Switch> 
        

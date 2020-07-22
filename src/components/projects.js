@@ -32,7 +32,7 @@ class Projects extends React.Component {
           <div className="row">
             <div className="col-md-4">
               <div className="work-box">
-              <Link to="/aditi-portfolio/openpose" >
+              <Link to="/openpose" >
                   <div className="work-img">
                     <img src={openpose} alt="" className="img-fluid" />
                   </div>
@@ -57,7 +57,7 @@ class Projects extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-              <Link to="/aditi-portfolio/sna" >
+              <Link to="/sna" >
                   <div className="work-img">
                     <img src={sna} alt="" className="img-fluid" />
                   </div>
@@ -82,7 +82,7 @@ class Projects extends React.Component {
             <div className="col-md-4">
               <div className="work-box">
               
-              <Link to="/aditi-portfolio/causal" >
+              <Link to="/causal" >
               
                   <div className="work-img">
                     <img src={causal} alt="" className="img-fluid" />
@@ -118,7 +118,7 @@ class Projects extends React.Component {
             
             <div className="col-md-4">
               <div className="work-box-sm">
-              <Link to="/aditi-portfolio/dashboard" >
+              <Link to="/dashboard" >
                   <div className="work-img-sm">
                     <img src={ctcw} alt="" className="img-fluid" />
                   </div>
@@ -140,7 +140,7 @@ class Projects extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box-sm">
-              <Link to="/aditi-portfolio/mining" >
+              <Link to="/mining" >
                   <div className="work-img-sm">
                     <img src={mining} alt="" className="img-fluid" />
                   </div>
@@ -161,7 +161,7 @@ class Projects extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box-sm">
-              <Link to="/aditi-portfolio/netlogo" >
+              <Link to="/netlogo" >
                   <div className="work-img-sm">
                     <img src={netlogo} alt="" className="img-fluid" />
                   </div>
@@ -185,7 +185,7 @@ class Projects extends React.Component {
           <div className="row">
           <div className="col-md-4">
               <div className="work-box-sm">
-              <Link to="/aditi-portfolio/ecocollage" >
+              <Link to="/ecocollage" >
                   <div className="work-img-sm">
                     <img src={ecocollage} alt="" className="img-fluid" />
                   </div>
