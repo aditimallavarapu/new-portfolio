@@ -92,7 +92,7 @@ class Navbar extends React.Component {
           return false;
         }
       }
-      else if(
+     /*else if(
 
         window.location.pathname.replace(/^\//, "") ===
           this.pathname.replace(/^\//, "") &&
@@ -117,7 +117,7 @@ class Navbar extends React.Component {
             "easeInExpo"
           );
           return false;
-      }
+      }*/
       }
     });
 
