@@ -17,7 +17,7 @@ class Contact extends React.Component {
       e.preventDefault();
       axios({
         method: "POST", 
-        url:"http://localhost:3002/send", 
+        url:"http://localhost:3002/aditi-portfolio/send", 
         data:  this.state
       }).then((response)=>{
         if (response.data.status === 'success'){
@@ -62,7 +62,7 @@ class Contact extends React.Component {
                       <div className="title-box-2">
                         <h5 className="title-left">Send A Message</h5>
                       </div>
-                      <div>
+                      {/*<div>
                         <form
                           id="contact-form"
                           onSubmit={this.handleSubmit.bind(this)}
@@ -120,7 +120,8 @@ class Contact extends React.Component {
                                 <div className="validation"></div>
                               </div>
                            </div> */}
-                            <div className="col-md-12 mb-3">
+                          
+                          {/* <div className="col-md-12 mb-3">
                               <div className="form-group">
                                 <textarea
                                   className="form-control"
@@ -146,8 +147,8 @@ class Contact extends React.Component {
                             </div>
                           </div>
                         </form>
-                      </div>
-    </div>
+                          </div>*/}
+                          </div>
                     <div className="col-md-6">
                       <div className="title-box-2 pt-4 pt-md-0">
                         <h5 className="title-left">Get in Touch</h5>
@@ -158,11 +159,11 @@ class Contact extends React.Component {
                           collaboration, or just say hi, I'd love to hear from
                           you.
                           <br />
-                          Simply fill the form and send me an email.
+                          Simply send me an email.
                         </p>
-                        {/* <ul className="list-ico">
+                         <ul className="list-ico">
                                 <li><span className="ion-email"></span> amalla5@uic.edu</li>
-                          </ul> */}
+                          </ul> 
                           </div>
                       <div className="socials">
                         <ul>
