@@ -1,5 +1,5 @@
 import React from 'react'
-import {BrowserRouter as Router, Route, 
+import {Route, 
         Switch} from 'react-router-dom'
 import Intro from './intro'
 import Resume from './Resume'
