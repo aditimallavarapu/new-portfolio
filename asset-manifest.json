@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/aditi-portfolio/static/css/main.9ca5551e.chunk.css",
-    "main.js": "/aditi-portfolio/static/js/main.86dff88c.chunk.js",
-    "main.js.map": "/aditi-portfolio/static/js/main.86dff88c.chunk.js.map",
+    "main.js": "/aditi-portfolio/static/js/main.fcf2cc15.chunk.js",
+    "main.js.map": "/aditi-portfolio/static/js/main.fcf2cc15.chunk.js.map",
     "runtime-main.js": "/aditi-portfolio/static/js/runtime-main.1c69c865.js",
     "runtime-main.js.map": "/aditi-portfolio/static/js/runtime-main.1c69c865.js.map",
     "static/css/2.f2f9daf2.chunk.css": "/aditi-portfolio/static/css/2.f2f9daf2.chunk.css",
     "static/js/2.c7dc0c74.chunk.js": "/aditi-portfolio/static/js/2.c7dc0c74.chunk.js",
     "static/js/2.c7dc0c74.chunk.js.map": "/aditi-portfolio/static/js/2.c7dc0c74.chunk.js.map",
     "index.html": "/aditi-portfolio/index.html",
-    "precache-manifest.d8d45cd43e2ee119af2e565527274bc7.js": "/aditi-portfolio/precache-manifest.d8d45cd43e2ee119af2e565527274bc7.js",
+    "precache-manifest.2d4e9a3c21207083ec07e3a775c6bbd1.js": "/aditi-portfolio/precache-manifest.2d4e9a3c21207083ec07e3a775c6bbd1.js",
     "service-worker.js": "/aditi-portfolio/service-worker.js",
     "static/css/2.f2f9daf2.chunk.css.map": "/aditi-portfolio/static/css/2.f2f9daf2.chunk.css.map",
     "static/css/main.9ca5551e.chunk.css.map": "/aditi-portfolio/static/css/main.9ca5551e.chunk.css.map",
@@ -34,6 +34,6 @@
     "static/css/2.f2f9daf2.chunk.css",
     "static/js/2.c7dc0c74.chunk.js",
     "static/css/main.9ca5551e.chunk.css",
-    "static/js/main.86dff88c.chunk.js"
+    "static/js/main.fcf2cc15.chunk.js"
   ]
 }
