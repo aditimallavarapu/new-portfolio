@@ -22,7 +22,7 @@ const CustomRoute = () => {
             <Route path="/aditi-portfolio/experience" component={Resume} />
             <Route path="/aditi-portfolio/publications" component={Publications} />
             <Route path="/aditi-portfolio/projects" component={portfolio} />
-            <Route path="/aditi-portfolio/allProjects" component={projects} />
+            <Route path="/aditi-portfolio/all-projects" component={projects} />
             <Route path="/aditi-portfolio/contact-me" component={contact} />
             {/*<Route path="/blogs" component={blogs} />*/}
             <Route path="/aditi-portfolio/openpose" component={openposePage} />
