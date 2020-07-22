@@ -106,7 +106,7 @@ class Navbar extends React.Component {
         console.log(this.hash);
         console.log(window.location);
         
-        window.location.pathname="";
+        window.location.pathname="/aditi-portfolio/";
         
        /* var target = $(this.hash);
         target = target.length
