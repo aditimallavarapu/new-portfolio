@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/aditi-portfolio/static/css/main.e24f5ab7.chunk.css",
+    "main.css": "/aditi-portfolio/static/css/main.52f3936a.chunk.css",
     "main.js": "/aditi-portfolio/static/js/main.73e7cfec.chunk.js",
     "main.js.map": "/aditi-portfolio/static/js/main.73e7cfec.chunk.js.map",
     "runtime-main.js": "/aditi-portfolio/static/js/runtime-main.1c69c865.js",
@@ -9,10 +9,10 @@
     "static/js/2.92fdcde6.chunk.js": "/aditi-portfolio/static/js/2.92fdcde6.chunk.js",
     "static/js/2.92fdcde6.chunk.js.map": "/aditi-portfolio/static/js/2.92fdcde6.chunk.js.map",
     "index.html": "/aditi-portfolio/index.html",
-    "precache-manifest.4386aa40de64600547be877a44f9c993.js": "/aditi-portfolio/precache-manifest.4386aa40de64600547be877a44f9c993.js",
+    "precache-manifest.cc895b1a660ec4bf1ae033ce49f6af67.js": "/aditi-portfolio/precache-manifest.cc895b1a660ec4bf1ae033ce49f6af67.js",
     "service-worker.js": "/aditi-portfolio/service-worker.js",
     "static/css/2.f2f9daf2.chunk.css.map": "/aditi-portfolio/static/css/2.f2f9daf2.chunk.css.map",
-    "static/css/main.e24f5ab7.chunk.css.map": "/aditi-portfolio/static/css/main.e24f5ab7.chunk.css.map",
+    "static/css/main.52f3936a.chunk.css.map": "/aditi-portfolio/static/css/main.52f3936a.chunk.css.map",
     "static/js/2.92fdcde6.chunk.js.LICENSE.txt": "/aditi-portfolio/static/js/2.92fdcde6.chunk.js.LICENSE.txt",
     "static/media/Aditi_Mallavarapu_CV.pdf": "/aditi-portfolio/static/media/Aditi_Mallavarapu_CV.ce1a838c.pdf",
     "static/media/bw-girl.png": "/aditi-portfolio/static/media/bw-girl.16d57d19.png",
@@ -33,7 +33,7 @@
     "static/js/runtime-main.1c69c865.js",
     "static/css/2.f2f9daf2.chunk.css",
     "static/js/2.92fdcde6.chunk.js",
-    "static/css/main.e24f5ab7.chunk.css",
+    "static/css/main.52f3936a.chunk.css",
     "static/js/main.73e7cfec.chunk.js"
   ]
 }
