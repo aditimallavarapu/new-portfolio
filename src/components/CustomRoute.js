@@ -20,14 +20,15 @@ const CustomRoute = () => {
       
           <Switch>
             <Route path="/" component={Intro} exact />
-            <Route path="/home" component={Intro} />
-            <Route path="/about" component={Resume} />
-            <Route path="/work" component={Portfolio} />
-            <Route path="/experience" component={Resume} />
-            <Route path="/publications" component={Publications} />
-            <Route path="/portfolio" component={Portfolio} />
+           <Route path="/home" component={Intro} />
+            <Route path="/#page-top" component={Intro} />
+            <Route path="/about" component={Intro} />
+            <Route path="/work" component={Intro} />
+            <Route path="/experience" component={Intro} />
+            <Route path="/publications" component={Intro} />
+            <Route path="/portfolio" component={Intro} />
             <Route path="/projects" component={Projects} />
-            <Route path="/contact" component={Contact} />
+           <Route path="/contact" component={Contact} />
             {/*<Route path="/blogs" component={blogs} />*/}
             <Route path="/openpose" component={openposePage} />
             <Route path="/sna" component={snaPage} />

@@ -143,7 +143,7 @@ class Navbar extends React.Component {
         id="mainNav"
       >
         <div className="container">
-          <a className="navbar-brand js-scroll" href="#page-top">
+          <a className="navbar-brand js-scroll" href="/page-top">
           
             <img
               src={this.state.logo}
