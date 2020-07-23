@@ -4,6 +4,7 @@ import $ from "jquery";
 import logo1 from "../img/cut-girl.png";
 import logo2 from "../img/bw-girl.png";
 import Footer from './Footer'
+import {Link} from 'react-router-dom'
 class Navbar extends React.Component {
   constructor() {
     super();
@@ -143,7 +144,7 @@ class Navbar extends React.Component {
         id="mainNav"
       >
         <div className="container">
-          <a className="navbar-brand js-scroll" href="/page-top">
+          <Link className="navbar-brand js-scroll" href="/page-top">
           
             <img
               src={this.state.logo}
@@ -151,7 +152,7 @@ class Navbar extends React.Component {
               style={{ maxWidth: "70px" }}
             />
            
-          </a>
+          </Link>
           
           <button
             className="navbar-toggler collapsed"
