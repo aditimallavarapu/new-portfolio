@@ -6,6 +6,7 @@ import ctcw from "../img/ctcw.png"
 import mining from "../img/mining.png"
 import netlogo from "../img/netlogo.png"
 import ecocollage from "../img/ecocollage.png"
+import CW from "../img/CW.png"
 import {Link} from 'react-router-dom';
 import "./stars.scss";
 
@@ -25,6 +26,50 @@ class Projects extends React.Component {
                 <div className="line-mf"></div>
               </div>
             </div>
+            <div className="row">
+            <div className="title-box text-left">
+                <h3 className="title" style={{color:"white", marginTop: "10px", marginBottom:"10px"}}>Connected Worlds</h3>
+          </div>
+              <div className="col-sm-12">
+                  <img src={CW} alt="" className="img-fluid" />
+                  <p style={{marginTop:"5px", color:"white"}}>
+                  My research interests focuss on understanding how learning takes place in
+                  open-ended learning environments (where learners learn via exploration). 
+                  My most recents projects are related to one such open-ended learning exhibit <b>Connected Worlds.</b> 
+                  </p>  
+                  <p style={{marginTop:"5px", color:"white"}}>
+                    Currently operating at the New York Hall of Science, 
+                    Connected Worlds is a 250m<sup>2</sup> immersive digital 
+                    exhibit that invites up to 50 simultaneous visitors 
+                    into an open-ended, visitor-driven simulation of 
+                    ecosystem interaction. The exhibit represents 
+                    an ecosystem (as digital projections on exhibits wall) 
+                    consisting of four plantable biomes, named Desert, Plains, 
+                    Jungle, and Wetlands, and three sources of water in the 
+                    form of reservoirs, mountain valley with an occasional 
+                    stream and the 6-feet tall water fall (See image above).
+                     Visitors interact 
+                    with the simulated environment by taking physical actions 
+                    that are captured by the exhibit's system of 12 Kinect 
+                    cameras and three infrared cameras that respond in immediate 
+                    environment changes. The visitors can 1) raise their hands 
+                    in front of the projected biomes to cause seeds to be 
+                    planted at that physical location and 2) they can move the 
+                    foam "logs" (detectable by IR camera) to divert water 
+                    flow  towards different biomes. Water flowing into a biome 
+                     acts as source of water for
+                     the plants in the biome.
+                      When a biome has access to sufficient water reserves, 
+                      the planted seeds grow and the biome flourishes to attract
+                       different animals. The plants in the biomes cause water 
+                       from the biomes to evaporate and form clouds, which can 
+                       return water to the ecosystem, thus emulating a 
+                       real-world water cycle.
+                      </p>
+              </div>
+            </div>
+            
+            
           </div>
           <div className="title-box text-left">
                 <h3 className="title" style={{color:"white", marginTop: "10px", marginBottom:"10px"}}>Recent Projects</h3>
