@@ -162,7 +162,7 @@ class Contact extends React.Component {
                           Simply send me an email.
                         </p>
                          <ul className="list-ico">
-                                <li><a href="mailto:amalla5@uic.edu"><span className="ion-email"></span> amalla5@uic.edu</a></li>
+                                <li><a href="mailto:amalla5@uic.edu"><span className="ion-email"> amalla5@uic.edu</span></a></li>
                           </ul> 
                           </div>
                       <div className="socials">
