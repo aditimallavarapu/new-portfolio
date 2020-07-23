@@ -22,7 +22,7 @@ const CustomRoute = () => {
           <Switch>
             <Route path="/" component={Intro} exact />
            <Route path="/home" component={Intro} />
-            <Route path="/#page-top" component={Intro} />
+            <Route path="/page-top" component={Intro} />
             <Route path="/about" component={Intro} />
             <Route path="/myself" component={About} />
             <Route path="/work" component={Intro} />
