@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/aditi-portfolio/static/css/main.9ca5551e.chunk.css",
-    "main.js": "/aditi-portfolio/static/js/main.3a0fdece.chunk.js",
-    "main.js.map": "/aditi-portfolio/static/js/main.3a0fdece.chunk.js.map",
+    "main.js": "/aditi-portfolio/static/js/main.d4236dd7.chunk.js",
+    "main.js.map": "/aditi-portfolio/static/js/main.d4236dd7.chunk.js.map",
     "runtime-main.js": "/aditi-portfolio/static/js/runtime-main.1c69c865.js",
     "runtime-main.js.map": "/aditi-portfolio/static/js/runtime-main.1c69c865.js.map",
     "static/css/2.f2f9daf2.chunk.css": "/aditi-portfolio/static/css/2.f2f9daf2.chunk.css",
-    "static/js/2.55db4520.chunk.js": "/aditi-portfolio/static/js/2.55db4520.chunk.js",
-    "static/js/2.55db4520.chunk.js.map": "/aditi-portfolio/static/js/2.55db4520.chunk.js.map",
+    "static/js/2.7fb670b7.chunk.js": "/aditi-portfolio/static/js/2.7fb670b7.chunk.js",
+    "static/js/2.7fb670b7.chunk.js.map": "/aditi-portfolio/static/js/2.7fb670b7.chunk.js.map",
     "index.html": "/aditi-portfolio/index.html",
-    "precache-manifest.eaef21ebbab01b6d6888fb477baf0612.js": "/aditi-portfolio/precache-manifest.eaef21ebbab01b6d6888fb477baf0612.js",
+    "precache-manifest.54455e53da64a97b977b51c602f0eeb8.js": "/aditi-portfolio/precache-manifest.54455e53da64a97b977b51c602f0eeb8.js",
     "service-worker.js": "/aditi-portfolio/service-worker.js",
     "static/css/2.f2f9daf2.chunk.css.map": "/aditi-portfolio/static/css/2.f2f9daf2.chunk.css.map",
     "static/css/main.9ca5551e.chunk.css.map": "/aditi-portfolio/static/css/main.9ca5551e.chunk.css.map",
-    "static/js/2.55db4520.chunk.js.LICENSE.txt": "/aditi-portfolio/static/js/2.55db4520.chunk.js.LICENSE.txt",
+    "static/js/2.7fb670b7.chunk.js.LICENSE.txt": "/aditi-portfolio/static/js/2.7fb670b7.chunk.js.LICENSE.txt",
     "static/media/Aditi_Mallavarapu_CV.pdf": "/aditi-portfolio/static/media/Aditi_Mallavarapu_CV.ce1a838c.pdf",
     "static/media/CW.png": "/aditi-portfolio/static/media/CW.09fc1a19.png",
     "static/media/bw-girl.png": "/aditi-portfolio/static/media/bw-girl.16d57d19.png",
@@ -34,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.1c69c865.js",
     "static/css/2.f2f9daf2.chunk.css",
-    "static/js/2.55db4520.chunk.js",
+    "static/js/2.7fb670b7.chunk.js",
     "static/css/main.9ca5551e.chunk.css",
-    "static/js/main.3a0fdece.chunk.js"
+    "static/js/main.d4236dd7.chunk.js"
   ]
 }
