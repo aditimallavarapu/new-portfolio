@@ -38,7 +38,7 @@ class About extends Component {
                              <p>
                                My research focuses on creating learning opportunities for new learners and understanding learning as a process.
                                Currently I am working as a Research Assistant at the New York Hall of Science 
-                               (mueseums hold the treasure of knowledge and the perfect living lab to understand learning) and 
+                               (museums hold the treasure of knowledge and the perfect living lab to understand learning) and 
                                as a Teaching Assistant at the University of Illinois at Chicago (I have has the previledge 
                                to lead classes to pique interest in Computer Science for incoming freshman students). 
                                </p>
