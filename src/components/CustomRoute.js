@@ -14,6 +14,7 @@ import miningPage from '../Projects/mining'
 import Projects from '../components/projects.js'
 import netlogoPage from '../Projects/netlogo'
 import EcoCollagePage from '../Projects/EcoCollage'
+import About from './About'
 
 const CustomRoute = () => {
     return (
@@ -23,8 +24,10 @@ const CustomRoute = () => {
            <Route path="/home" component={Intro} />
             <Route path="/#page-top" component={Intro} />
             <Route path="/about" component={Intro} />
+            <Route path="/myself" component={About} />
             <Route path="/work" component={Intro} />
             <Route path="/experience" component={Intro} />
+
             <Route path="/publications" component={Intro} />
             <Route path="/portfolio" component={Intro} />
             <Route path="/projects" component={Projects} />

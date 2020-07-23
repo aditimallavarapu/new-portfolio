@@ -6,11 +6,13 @@ import BottomNavigation from "@material-ui/core/BottomNavigation";
 import BottomNavigationAction from "@material-ui/core/BottomNavigationAction";
 import NoteIcon from '@material-ui/icons/Note';
 import CastForEducationIcon from '@material-ui/icons/CastForEducation';
+import AccountBoxIcon from '@material-ui/icons/AccountBox';
 import CV from '../img/Aditi_Mallavarapu_CV.pdf'
 import Publications from './Publications';
 import Portfolio from './portfolio';
 import Contact from './contact';
 import Resume from './Resume'
+import {Link} from 'react-router-dom';
 
 class Intro extends React.Component {
   
@@ -58,7 +60,10 @@ class Intro extends React.Component {
               
               <BottomNavigationAction icon={<CastForEducationIcon />}  className= "intro-icons btn js-scroll px-4" 
               href="#work" label="View Projects" />
-              View Projects
+
+            <BottomNavigationAction component={Link} icon={<AccountBoxIcon />}  className= "intro-icons btn" 
+              to="/myself" label="About Me" />
+              
             </BottomNavigation>  
             
             </div>
