@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a756bd139ee8e3cd4f500d161f9632dd",
+    "revision": "4f1de73232b07f50bc28232c4cb005de",
     "url": "/aditi-portfolio/index.html"
   },
   {
-    "revision": "13b2419e9a9405b12b62",
+    "revision": "3eaa8156a0acd92f12ad",
     "url": "/aditi-portfolio/static/css/2.f2f9daf2.chunk.css"
   },
   {
-    "revision": "77258704248251e08aeb",
+    "revision": "68dc7d0b80c0395dccaf",
     "url": "/aditi-portfolio/static/css/main.9ca5551e.chunk.css"
   },
   {
-    "revision": "13b2419e9a9405b12b62",
-    "url": "/aditi-portfolio/static/js/2.9142409b.chunk.js"
+    "revision": "3eaa8156a0acd92f12ad",
+    "url": "/aditi-portfolio/static/js/2.55db4520.chunk.js"
   },
   {
     "revision": "ba42e6412eff3bfe95b800a287c06998",
-    "url": "/aditi-portfolio/static/js/2.9142409b.chunk.js.LICENSE.txt"
+    "url": "/aditi-portfolio/static/js/2.55db4520.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "77258704248251e08aeb",
-    "url": "/aditi-portfolio/static/js/main.b1157983.chunk.js"
+    "revision": "68dc7d0b80c0395dccaf",
+    "url": "/aditi-portfolio/static/js/main.770d37ee.chunk.js"
   },
   {
     "revision": "fa22cb0a881afe412138",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ce1a838ca275041660c656bd0c141160",
     "url": "/aditi-portfolio/static/media/Aditi_Mallavarapu_CV.ce1a838c.pdf"
+  },
+  {
+    "revision": "09fc1a19b2e9080a751c5b7511a1888f",
+    "url": "/aditi-portfolio/static/media/CW.09fc1a19.png"
   },
   {
     "revision": "16d57d19c1ea5625d3bd316aaf0de328",
