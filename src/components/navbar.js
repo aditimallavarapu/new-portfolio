@@ -144,15 +144,14 @@ class Navbar extends React.Component {
         id="mainNav"
       >
         <div className="container">
-          <a className="navbar-brand js-scroll" href="#page-top">
-          
+          <Link className="navbar-brand js-scroll" href="#page-top">
             <img
               src={this.state.logo}
               alt="logo"
               style={{ maxWidth: "70px" }}
             />
            
-          </a>
+          </Link>
           
           <button
             className="navbar-toggler collapsed"
