@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc2fa50d0d4c34165a750d6570a1c4f6",
+    "revision": "abf21f9456b69529eb9f7757d0a68cae",
     "url": "/aditi-portfolio/index.html"
   },
   {
-    "revision": "20de59553fcf9fedeca3",
+    "revision": "3eaa8156a0acd92f12ad",
     "url": "/aditi-portfolio/static/css/2.f2f9daf2.chunk.css"
   },
   {
-    "revision": "2a7873d58e53c5130732",
+    "revision": "14780d129603360c2544",
     "url": "/aditi-portfolio/static/css/main.9ca5551e.chunk.css"
   },
   {
-    "revision": "20de59553fcf9fedeca3",
-    "url": "/aditi-portfolio/static/js/2.7fb670b7.chunk.js"
+    "revision": "3eaa8156a0acd92f12ad",
+    "url": "/aditi-portfolio/static/js/2.55db4520.chunk.js"
   },
   {
     "revision": "ba42e6412eff3bfe95b800a287c06998",
-    "url": "/aditi-portfolio/static/js/2.7fb670b7.chunk.js.LICENSE.txt"
+    "url": "/aditi-portfolio/static/js/2.55db4520.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2a7873d58e53c5130732",
-    "url": "/aditi-portfolio/static/js/main.d4236dd7.chunk.js"
+    "revision": "14780d129603360c2544",
+    "url": "/aditi-portfolio/static/js/main.ad16054b.chunk.js"
   },
   {
     "revision": "fa22cb0a881afe412138",
