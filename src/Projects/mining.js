@@ -18,8 +18,7 @@ class miningPage extends Component {
                       
                         <div className="title-box-2">
                           <h3 className="title-left">Data Mining</h3>
-                          <h4>Mining Connected Worlds </h4>
-                        </div>
+                          </div>
                         <div className="row" style={{marginTop:"0px"}}>
                         <div className="text-left">
                           <h5 className="title" style={{marginTop: "5px", marginBottom:"0px"}}>Connected Worlds</h5>
@@ -62,6 +61,10 @@ class miningPage extends Component {
                                   </p>
                           </div>
                         </div>
+                        <div>
+                        <h4>Mining Connected Worlds </h4>
+                        </div>
+                        
                         <Grid>
                             <Cell col={6}>
                             <img src={mining} alt="" className="img-fluid" />

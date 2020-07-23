@@ -19,7 +19,6 @@ class openposePage extends Component {
                       
                         <div className="title-box-2">
                           <h3 className="title-left">OpenPose Python Library: An Application in Connected Worlds</h3>
-                          <h4>OpenPose and Clustering to Extract Action Poses from Video Data </h4>
                         </div>
                         <div className="row" style={{marginTop:"0px"}}>
                         <div className="text-left">
@@ -62,6 +61,9 @@ class openposePage extends Component {
                                   real-world water cycle.
                                   </p>
                           </div>
+                        </div>
+                        <div>
+                        <h4>OpenPose and Clustering to Extract Action Poses from Video Data </h4>
                         </div>
                         <Grid>
                             <Cell col={6}>

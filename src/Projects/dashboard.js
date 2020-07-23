@@ -19,7 +19,7 @@ class dashboardPage extends Component {
                       
                         <div className="title-box-2">
                           <h3 className="title-left">Dashboard Design</h3>
-                          <h4>Connect-to-Connected Worlds </h4>
+                          
                         </div>
                         <div className="row" style={{marginTop:"0px"}}>
                         <div className="text-left">
@@ -62,6 +62,10 @@ class dashboardPage extends Component {
                                   real-world water cycle.
                                   </p>
                           </div>
+                        </div>
+                        <div>
+
+                        <h4>Connect-to-Connected Worlds </h4>
                         </div>
                         <Grid>
                             <Cell col={6}>
