@@ -14,6 +14,12 @@ import miningPage from '../Projects/mining'
 import Projects from '../components/projects.js'
 import netlogoPage from '../Projects/netlogo'
 import EcoCollagePage from '../Projects/EcoCollage'
+import participatoryPage from '../Projects/particpatory'
+import sequencePage from '../Projects/sequence'
+import feedbackPage from '../Projects/feedback'
+import gesturePage from '../Projects/gesture'
+import toolPage from '../Projects/tool'
+import carbonPage from '../Projects/carbon'
 import About from './About'
 
 const CustomRoute = () => {
@@ -40,6 +46,12 @@ const CustomRoute = () => {
             <Route path="/mining" component={miningPage} />
             <Route path="/netlogo" component={netlogoPage} />
             <Route path="/ecocollage" component={EcoCollagePage} />
+            <Route path="/sequence" component={sequencePage} />
+            <Route path="/pd" component={participatoryPage} />
+            <Route path="/feedback" component={feedbackPage} />
+            <Route path="/gesture" component={gesturePage} />
+            <Route path="/tool" component={toolPage} />
+            <Route path="/carbon" component={carbonPage} />
            {/* <Route component={NotFound}/>*/}
           </Switch> 
        

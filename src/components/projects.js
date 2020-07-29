@@ -7,6 +7,12 @@ import mining from "../img/mining.png"
 import netlogo from "../img/netlogo.png"
 import ecocollage from "../img/ecocollage.png"
 import CW from "../img/CW.png"
+import sequence from "../img/sequence.png"
+import pd from "../img/pd.png"
+import feedback from "../img/feedback.png"
+import gesture from "../img/gesture.png"
+import tool from "../img/tool.png"
+import carbon from "../img/carbon.png"
 import {Link} from 'react-router-dom';
 import "./stars.scss";
 
@@ -151,16 +157,51 @@ class Projects extends React.Component {
               </div>
             </div>
           </div>
-          <div className="title-box text-left">
-                <h3 className="title" 
-                style={{color:"white", 
-                marginTop: "10px", 
-                marginBottom:"10px"}}>
-               Previous Projects
-            </h3>
-          </div>
           <div className="row">
-            
+          <div className="col-md-4">
+              <div className="work-box-sm">
+              <Link to="/sequence" >
+                  <div className="work-img-sm">
+                    <img src={sequence} alt="" className="img-fluid" />
+                  </div>
+                  
+                  <div className="work-content">
+                    <div className="row">
+                      <div className="col-sm-12">
+                        <h2 className="w-title">Lag Sequential Analysis</h2>
+                        <div className="w-more">
+                            <span className="w-ctegory" >
+                            Mining Critical Events through Lag Sequential Analysis
+                           </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </Link>
+              </div>
+            </div>
+            <div className="col-md-4">
+              <div className="work-box-sm">
+              <Link to="/pd" >
+                  <div className="work-img-sm">
+                    <img src={pd} alt="" className="img-fluid" />
+                  </div>
+                  
+                  <div className="work-content">
+                    <div className="row">
+                      <div className="col-sm-12">
+                        <h2 className="w-title">Particpatory Co-design</h2>
+                        <div className="w-more">
+                            <span className="w-ctegory" >
+                            Card based Co-design methodology for data-driven tool design
+                           </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </Link>
+              </div>
+            </div>
             <div className="col-md-4">
               <div className="work-box-sm">
               <Link to="/dashboard" >
@@ -183,9 +224,33 @@ class Projects extends React.Component {
                 </Link>
               </div>
             </div>
-            <div className="col-md-4">
-              <div className="work-box-sm">
-              <Link to="/mining" >
+         </div>
+          <div className="row">
+          <div className="col-md-4">
+                <div className="work-box-sm">
+              <Link to="/feedback" >
+                  <div className="work-img-sm">
+                    <img src={feedback} alt="" className="img-fluid" />
+                  </div>
+                  
+                  <div className="work-content">
+                    <div className="row">
+                      <div className="col-sm-12">
+                        <h2 className="w-title">Empirical Analysis</h2>
+                        <div className="w-more">
+                            <span className="w-ctegory" >
+                            Empirical Analysis of Formative Feedback
+                           </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </Link>
+              </div>
+            </div>
+              <div className="col-md-4">
+                <div className="work-box-sm">
+                <Link to="/mining" >
                   <div className="work-img-sm">
                     <img src={mining} alt="" className="img-fluid" />
                   </div>
@@ -204,6 +269,7 @@ class Projects extends React.Component {
                 </Link>
               </div>
             </div>
+            
             <div className="col-md-4">
               <div className="work-box-sm">
               <Link to="/netlogo" >
@@ -226,6 +292,9 @@ class Projects extends React.Component {
                 </Link>
               </div>
             </div>
+          
+          
+          
           </div>
           <div className="row">
           <div className="col-md-4">
@@ -250,8 +319,76 @@ class Projects extends React.Component {
                 </Link>
               </div>
             </div>
-          </div>
-         
+
+            <div className="col-md-4">
+              <div className="work-box-sm">
+              <Link to="/gesture" >
+                  <div className="work-img-sm">
+                    <img src={gesture} alt="" className="img-fluid" />
+                  </div>
+                  
+                  <div className="work-content">
+                    <div className="row">
+                      <div className="col-sm-12">
+                        <h2 className="w-title">Gesture Segmentation</h2>
+                        <div className="w-more">
+                            <span className="w-ctegory" >
+                            Gesture Segmentation data using Skeleton Tracking and Machine Learning
+                           </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </Link>
+              </div>
+            </div>
+            <div className="col-md-4">
+              <div className="work-box-sm">
+              <Link to="/tool" >
+                  <div className="work-img-sm">
+                    <img src={tool} alt="" className="img-fluid" />
+                  </div>
+                  
+                  <div className="work-content">
+                    <div className="row">
+                      <div className="col-sm-12">
+                        <h2 className="w-title">Text Annotating Tool</h2>
+                        <div className="w-more">
+                            <span className="w-ctegory" >
+                            Text annotation Visualizer 
+                           </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </Link>
+              </div>
+            </div>
+         </div>
+         <div className="row">
+         <div className="col-md-4">
+              <div className="work-box-sm">
+              <Link to="/carbon" >
+                  <div className="work-img-sm">
+                    <img src={carbon} alt="" className="img-fluid" />
+                  </div>
+                  
+                  <div className="work-content">
+                    <div className="row">
+                      <div className="col-sm-12">
+                        <h2 className="w-title">Visual Analysis</h2>
+                        <div className="w-more">
+                            <span className="w-ctegory" >
+                            World Climate Change Dashboard
+                           </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </Link>
+              </div>
+            </div>
+         </div>
         </div>
       </section>
     );
