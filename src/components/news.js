@@ -20,7 +20,7 @@ class News extends React.Component {
               </div>
             </div>
           </div>
-          <ul>
+          <ul className="title">
             <li><b>November 2020</b>  Selected for CRA-WP career mentoring workshop</li>
             <li><b>October 2020</b>  Our paper on Collective Problem Solving regulation got accepted for AERA 2021</li>
             <li><b>October 2020</b>  Accepted to compete for funding through Schimdt Futures tools competition to develop a teacher facing dashboard.</li>
@@ -29,11 +29,6 @@ class News extends React.Component {
             <li><b>July 2020</b>  My work got accepted for Doctoral Consortium in EDM2020</li>
           </ul>
           
-        </div>
-        <div className="row load-more">
-          <div className="col-12">
-            <LoadMore /> 
-          </div>
         </div>
       </section>
     );

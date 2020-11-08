@@ -71,8 +71,9 @@ class Intro extends React.Component {
           </div>
         </div>
       </div>
+    <News/>
      <Resume />
-     <News/>
+     
      <Portfolio />
      <Publications/>
      <Contact />

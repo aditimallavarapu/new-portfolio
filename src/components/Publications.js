@@ -19,8 +19,18 @@ class Publications extends React.Component {
           dets: "(p. 7). ACM",
           link: conference1 
         },
+          {
+            id: "conference2",
+            author:
+              "Mallavarapu, A.",
+            otherAuthor:", Lyons, L. (2020, July).",
+            title:"Exploration Maps, Beyond Top Scores: Designing Formative Feedback for Open-Ended Problems. ",
+            venue: "In Proceedings of the International Conference on Educational Data Mining (EDM).",
+            dets: "(p. 6).",
+            link: conference1 
+          },
       ],
-      journals:[
+      journals: [
         {
           id: "journal1",
           author:

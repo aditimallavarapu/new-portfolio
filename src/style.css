@@ -150,6 +150,11 @@ a:hover {
   color: white;
 }
 
+.title {
+  font-size: 3rem;
+  color: white;
+}
+
 .subtitle-a {
   color: white;
 }
