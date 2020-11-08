@@ -38,6 +38,8 @@ class About extends Component {
                               open-ended environment. She used the data mining methods to uncover patterns in the learner interaction data to evaluate 
                               the design of the educational tool, empirically supporting learning by exploration. 
                               </p>
+                              </Cell>
+                              <Cell>
                               <p>
                               Following graduate school, Aditi worked as a technical consultant for a huge health-care provider developing and improving 
                               software solutions for health-care  administrative tasks. She soon realized that her interests lay in the sense of responsibility, 
@@ -62,7 +64,7 @@ class About extends Component {
                                 She wishes to employ her scientific rigor, technical skills, and drive to use data-driven methods to improve the phenomenon
                                  of learning in non-traditional learning environments like museum exhibits, games, and other non-conventional learning media 
                                  through her upcoming career decisions.  
-                                 
+
 
                               </p>
 
