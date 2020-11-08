@@ -27,26 +27,44 @@ class About extends Component {
                             <Cell col={1}>
                             </Cell>
                             <Cell col={5}>
-                             
-                             <p>
-                             I am a Computer Science reserach student, a teacher and a developer 
-                             (a blessing of taking multiple roles being affliated to Computer Science has given me).
-                             I call Chennai (India), and Chicago (USA) 'home'. I am a plant enthusiast and a creative 'DIY' person . 
-                             I have had the opportunity to travel and see new places and countries.
+                            <p>
+                            Aditi Mallavarapu is a Computer Science PhD student, teaching assistant and researcher at University of Illinois at Chicago. 
+                            Her research projects all have the shared goal of building computational methods and tools to understand, highlight, support and 
+                            improve exploration-based learning in open-ended learning environments. She draws upon the theoretical perspectives offered by the 
+                            learning sciences and technical perspectives offered by the machine learning and data mining algorithms to develop and deploy analytics 
+                            embedded within digital learning systems. </p>
+                            <p> Her interest in research was inspired by her decision to take a more difficult route of a Master's thesis 
+                              during her graduate school, where she set out to evaluate and support digital educational experiences for one such 
+                              open-ended environment. She used the data mining methods to uncover patterns in the learner interaction data to evaluate 
+                              the design of the educational tool, empirically supporting learning by exploration. 
+                              </p>
+                              <p>
+                              Following graduate school, Aditi worked as a technical consultant for a huge health-care provider developing and improving 
+                              software solutions for health-care  administrative tasks. She soon realized that her interests lay in the sense of responsibility, 
+                              rigour and achievement obtained from discovering patterns in educational data, pursuing research. 
+                              She went back to graduate school for a Doctorate degree in Computer Science to pursue education based research. Since then, 
+                              she has worn many hats working as a software developer, teaching assistant, adjunct professor, mentor, designer and a researcher
+                               and most importantly a student. As a graduate student, she works as a Teaching Assistant on-campus connecting to students understanding 
+                               their issues and challenges, helping them pique interests in Computer Science, seeing them put their knowledge to use; Being an immigrant
+                                women in computer science, she understands the stereotypical resistances imposed by society and she wanted to share her interests and 
+                                joy of learning CS with her fellow underserved students. This led her to work with underrepresented minorities mitigating their qualms,
+                                 allowing them to realize their potentials through CS, as a Saturday school instructor and an adjunct professor for high school seniors.
+                                  She was part of Girls who Code initiative, mentoring and tutoring middle schools girls to design and build applications for social good.
+                                   She thoroughly enjoys the gratitude that complements the teaching positions.
+                                   </p>
+                                   <p>
+                                She makes use of her industry experience and software development skills in her research work, 
+                                for navigating the pragmatics of experimental design, software design, large-scale data collection and analysis of 
+                                data from museum exhibits and other educational settings. Her dissertation work is an outgrowth of her position as a Research 
+                                Assistant at the New York Hall of Science, a metropolitan science museum, where she has worked during the summers since 2017, 
+                                analyzing and evaluating data from a digital museum exhibit. She is responsible for  coordinating research work with practitioners, 
+                                designing and evaluating support tools that work within institutional procedures and regulations.
+                                She wishes to employ her scientific rigor, technical skills, and drive to use data-driven methods to improve the phenomenon
+                                 of learning in non-traditional learning environments like museum exhibits, games, and other non-conventional learning media 
+                                 through her upcoming career decisions.  
+                                 
 
-                             </p>
-                             <p>
-                               My research focuses on creating learning opportunities for new learners and understanding learning as a process.
-                               Currently I am working as a Research Assistant at the New York Hall of Science 
-                               (museums hold the treasure of knowledge and the perfect living lab to understand learning) and 
-                               as a Teaching Assistant at the University of Illinois at Chicago (I have has the previledge 
-                               to lead classes to pique interest in Computer Science for incoming freshman students). 
-                               </p>
-                               <p>
-                                Throughout the years , I have developed tools and methodologies to understand and support learning in 
-                                Open-Ended Learning Environments, which allow learners to learn via exploration (Eg. Museums). 
-                                Check out my projects and publications.
-                               </p>
+                              </p>
 
                             </Cell>
 
