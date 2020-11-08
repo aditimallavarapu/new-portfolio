@@ -11,16 +11,12 @@ class Resume extends Component {
         <div className="container">
           <div className="row">
             <div className="col-sm-12">
-            <div className="title-box text-center">
-                <h3 className="title-a">Resume</h3>
-                <div className="line-mf"></div>
-            </div>
               <div>
                 <div id="about" className="box-shadow-full">
                   <div className="row">
                     <div className="col-md-12">
                       <div className="title-box-2">
-                        <h5 className="title-left">Experience</h5>
+                        <h5 className="title-left">Resume</h5>
                       </div>
                         <div > 
                           <div className="col-12">
