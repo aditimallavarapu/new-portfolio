@@ -70,9 +70,9 @@ class Intro extends React.Component {
             </div>
           </div>
         </div>
-        <News/>
+        
       </div>
-    
+      <News/>
      <Resume />
      
      <Portfolio />

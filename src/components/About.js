@@ -39,7 +39,7 @@ class About extends Component {
                               the design of the educational tool, empirically supporting learning by exploration. 
                               </p>
                               </Cell>
-                              <Cell>
+                              <Cell col = {12}>
                               <p>
                               Following graduate school, Aditi worked as a technical consultant for a huge health-care provider developing and improving 
                               software solutions for health-care  administrative tasks. She soon realized that her interests lay in the sense of responsibility, 
