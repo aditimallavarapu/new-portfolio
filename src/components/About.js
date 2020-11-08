@@ -38,12 +38,15 @@ class About extends Component {
                               open-ended environment. She used the data mining methods to uncover patterns in the learner interaction data to evaluate 
                               the design of the educational tool, empirically supporting learning by exploration. 
                               </p>
-                              </Cell>
-                              <Cell col = {12}>
                               <p>
+                              
                               Following graduate school, Aditi worked as a technical consultant for a huge health-care provider developing and improving 
                               software solutions for health-care  administrative tasks. She soon realized that her interests lay in the sense of responsibility, 
                               rigour and achievement obtained from discovering patterns in educational data, pursuing research. 
+                              </p>
+                              </Cell>
+                              <Cell col = {12}>
+                              <p>
                               She went back to graduate school for a Doctorate degree in Computer Science to pursue education based research. Since then, 
                               she has worn many hats working as a software developer, teaching assistant, adjunct professor, mentor, designer and a researcher
                                and most importantly a student. As a graduate student, she works as a Teaching Assistant on-campus connecting to students understanding 
