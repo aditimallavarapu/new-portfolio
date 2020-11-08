@@ -22,7 +22,7 @@ class News extends React.Component {
                       </div>
                     </div>
                   </div>
-                  <ul className="subtitle">
+                  <ul>
                     <li><b>November 2020</b>  Selected for CRA-WP career mentoring workshop</li>
                     <li><b>October 2020</b>  Our paper on Collective Problem Solving regulation got accepted for AERA 2021</li>
                     <li><b>October 2020</b>  Accepted to compete for funding through Schimdt Futures tools competition to develop a teacher facing dashboard.</li>
