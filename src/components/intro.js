@@ -66,10 +66,11 @@ class Intro extends React.Component {
               to="/myself" label="About Me" />
               
             </BottomNavigation>  
-            <News/>
+            
             </div>
           </div>
         </div>
+        <News/>
       </div>
     
      <Resume />
