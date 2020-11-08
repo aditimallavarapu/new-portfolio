@@ -13,6 +13,7 @@ import Portfolio from './portfolio';
 import Contact from './contact';
 import Resume from './Resume'
 import {Link} from 'react-router-dom';
+import News from './news';
 
 class Intro extends React.Component {
   
@@ -49,7 +50,7 @@ class Intro extends React.Component {
               </p>
               <p>
               A fifth year PhD Student at the Computer Science Deparatment of University of Illinois at Chicago.
-              I am currently working towards my thesis titled <i>"Designing Exploration Oriented Formative Feedback in Open-ended Problems". </i>
+              I am currently working towards my thesis titled <i>"Reconceptualizing Formative Feedback for Complex Systems Learners". </i>
               My research is multi-disciplinary and lies in the intersection of Human-Computer Interaction (HCI), Data Mining and Learning Sciences.
               </p>
             <BottomNavigation className="intro-icons" showLabels>
@@ -71,6 +72,7 @@ class Intro extends React.Component {
         </div>
       </div>
      <Resume />
+     <News/>
      <Portfolio />
      <Publications/>
      <Contact />
