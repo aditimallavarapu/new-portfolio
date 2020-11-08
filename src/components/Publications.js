@@ -2,6 +2,7 @@ import React from "react";
 /*import myImage from "../img/myImage.png";*/
 import journal1 from '../img/journal1.pdf'
 import conference1 from '../img/conference1.pdf'
+import conference2 from '../img/paper_250.pdf';
 import "./stars.scss";
 
 class Publications extends React.Component {
@@ -27,7 +28,7 @@ class Publications extends React.Component {
             title:"Exploration Maps, Beyond Top Scores: Designing Formative Feedback for Open-Ended Problems. ",
             venue: "In Proceedings of the International Conference on Educational Data Mining (EDM).",
             dets: "(p. 6).",
-            link: conference1 
+            link: conference2 
           },
       ],
       journals: [
